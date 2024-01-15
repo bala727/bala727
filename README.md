@@ -1,6 +1,6 @@
 ![Coding Gif](https://github.com/bala727/bala727/blob/main/Life.js.gif)
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=800&height=100&lines=Code+is+Life..&hearts;++;Self-taught+Smart+Thinker,;Linux+Lover,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=800&height=100&lines=Code+is+Life...&hearts;++;Self-taught+Smart+Thinker;Linux+Lover;Active+Learner/Researcher;Love+to+learn+new+stuffs..."></a>
 </p>
 <h3 align="center">
         <samp>&gt; Hey There!, I am 
@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
- <a href="https://https://dev.to/balakrishnan727" target="_blank">
+ <a href="https://dev.to/balakrishnan727" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="balakrishnan727" />
  </a>
  <a href="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fbalakrishnan304" target="_blank">
@@ -99,4 +99,3 @@
 </p>
 
 ---
-
