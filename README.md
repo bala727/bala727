@@ -1,6 +1,6 @@
 ![Coding Gif](https://github.com/bala727/bala727/blob/main/Life.js.gif)
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=800&height=100&lines=Code+is+Life..&hearts;++;Self-taught+Web+Developer,;Computer+Engineering+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=800&height=100&lines=Code+is+Life..&hearts;++;Self-taught+Smart-Thinker,;Linux Lover,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 <h3 align="center">
         <samp>&gt; Hey There!, I am 
@@ -9,23 +9,23 @@
 </h3>
 
 <p align="center">
- <a href="https://dev.to/m__mdy__m" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="m__mdy__m" />
+ <a href="https://https://dev.to/balakrishnan727" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="balakrishnan727" />
  </a>
- <a href="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fm__mdy__m" target="_blank">
+ <a href="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fbalakrishnan304" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://www.instagram.com/_medishn_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white" alt="_medishn_" />
+ <a href="https://www.instagram.com/__itz__me__bala" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white" alt="__itz__me__bala" />
  </a> 
- <a href="https://medium.com/@m--mdy--m" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-181816?&style=for-the-badge&logo=medium&logoColor=white" alt="m--mdy--m"  />
+ <a href="https://medium.com/@balakrishnan727" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-181816?&style=for-the-badge&logo=medium&logoColor=white" alt="balakrishnan727"  />
   </a>
-  <a href="https://t.me/m_mdy_m" target="_blank">
-    <img src="https://img.shields.io/badge/telegram-0088b9.svg?style=for-the-badge&logo=telegram&logoColor=#0088b9" alt="m--mdy--m"  />
+  <a href="https://t.me/Bala727" target="_blank">
+    <img src="https://img.shields.io/badge/telegram-0088b9.svg?style=for-the-badge&logo=telegram&logoColor=#0088b9" alt="Bala727"  />
   </a> 
-  <a href="https://stackoverflow.com/users/19394098/Bala" target="_blank">
-    <img src="https://img.shields.io/badge/stackoverflow-F48024.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="m--mdy--m"  />
+  <a href="https://stackoverflow.com/users/23249287/balakrishnan" target="_blank">
+    <img src="https://img.shields.io/badge/stackoverflow-F48024.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="balakrishnan"  />
   </a> 
 </p>
 <br />
@@ -34,7 +34,7 @@
 <h2 align="center"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"> <b>About me</b></h2>
 
 <p align="center">
-    👋 Hey there! I'm Bala, a web developer passionate about creating engaging web experiences.
+    👋 Hey there! I'm Bala, a development passionate about creating engaging experiences.
     <br/><br/>
     ✌️ <strong>Enjoy Programming and Sharing Knowledge</strong> <br/>
     I love collaborating with fellow developers, exploring new technologies, and sharing insights.
@@ -99,4 +99,3 @@
 </p>
 
 ---
-
