@@ -5,5 +5,5 @@
 sudo arp-scan -I wlp1s0 -l | grep DUP
 
 if [[ $? == 0 ]]; then
-  notify-send "Ip-conflict detected"
+  notify-send "IP-conflict detected"
 fi
