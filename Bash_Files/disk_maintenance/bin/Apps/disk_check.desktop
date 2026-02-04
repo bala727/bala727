@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Disk Monitor
+Comment=Check Disk Space
+Exec=/jidoka/disk_maintenance/bin/disk_cleanup.sh --check
+Icon=/jidoka/disk_maintenance/bin/Apps/disk_logo.png
+Terminal=false
+Type=Application
+Categories=Utility;

@@ -1,0 +1,34 @@
+{
+  "days_interval" : "*", 
+  "daily_run_time": "11:00",
+  "min_disk_free_space": 1500,
+  "min_days_to_keep": 1,
+  "disk_type": "SSD",
+  "throttle_folder_delete": false,
+  "folder_delete_list": [
+    {
+      "path": "/jidoka/v*/images/",
+      "delete_older_than_days": 7,
+      "folder_delete_at_depth": 3,
+      "retain_folder_list": [ "filewatch" ]
+    }
+  ],
+  "file_delete_list": [
+    {
+      "path": "/jidoka/plc_ftp_logs/",
+      "delete_older_than_days": 3
+    },
+    {
+      "path": "/jidoka/v*/logs/",
+      "delete_older_than_days": 30
+    },
+    {
+      "path": "/jidoka/v*/images/filewatch/",
+      "delete_older_than_days": 7
+    },
+    {
+      "path": "/jidoka/cctv/recordings/",
+      "delete_older_than_days": 3
+    }
+  ]
+}
